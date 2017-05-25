@@ -1,0 +1,10 @@
+Name:Jeffery.          <-- The period signals the program to end the name.
+ST:8
+DX:8   							If you want to write something
+IQ:8    						over here, that's fine, just make
+MA:10    						sure there's a space before any
+Damage:2-2    						other characters (including tab).
+Tactics:0
+Dam:0
+Fat:0
+XP:0

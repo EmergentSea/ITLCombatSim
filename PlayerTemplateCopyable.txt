@@ -1,0 +1,10 @@
+Name:.
+ST:
+DX:
+IQ:
+MA:
+Damage:
+Tactics:
+Dam:
+Fat:
+XP:

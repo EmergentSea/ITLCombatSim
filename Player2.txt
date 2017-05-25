@@ -1,0 +1,10 @@
+Name:Johnn Raymi.
+ST:10
+DX:14
+IQ:8
+MA:10
+Weapon:Cutlass
+Tactics:0
+Dam:0
+Fat:0
+XP:0

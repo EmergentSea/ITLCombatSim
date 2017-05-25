@@ -1,0 +1,10 @@
+Weapon:
+name
+type
+dice of damage
+flat damage
+required strength
+price
+weight
+required hands
+throwable
